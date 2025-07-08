@@ -10,7 +10,9 @@ NologyBot adalah bot WhatsApp berbasis TypeScript yang ringan, sederhana, dan mu
   Bergantung pada versi library `Baileys` yang kamu gunakan. Kompatibilitas bisa berbeda-beda.
 
 - 🧠 **Ditulis dalam TypeScript & JavaScript**  
-  Bebas memilih antara TypeScript atau JavaScript sesuai kenyamananmu.
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  Gunakan bahasa yang paling kamu kuasai!
 
 - 🧩 **Ringan & Mudah Dipahami**  
   Basis kode dibuat seminimal mungkin agar mudah dipelajari dan dikembangkan.
@@ -34,15 +36,15 @@ Skrip ini:
 - 🚫 **Dilarang diperjualbelikan**. Ini adalah proyek terbuka yang ditujukan untuk pembelajaran.
 - 🛠️ **Silakan tambah fitur sesuka hati**. Segala penambahan adalah hak dan tanggung jawab kamu sendiri.
 
-> "Base script ini dikembangkan untuk pengguna yang ingin mencoba membangun bot dari dasar. Sederhana, transparan, dan mudah diutak-atik."
+> “Base script ini dikembangkan untuk pengguna yang ingin mencoba membangun bot dari dasar. Sederhana, transparan, dan mudah diutak-atik.”
 
 ---
 
 ## 👨‍💻 Cocok Untuk
 
-- Pemula yang ingin belajar membuat bot WhatsApp
-- Developer yang butuh base script bersih untuk eksperimen
-- Pembuat konten yang butuh skrip contoh untuk tutorial
+- 🧑‍🎓 Pemula yang ingin belajar membuat bot WhatsApp
+- 🧪 Developer yang butuh base script bersih untuk eksperimen
+- 🎥 Pembuat konten atau edukator yang butuh skrip contoh untuk tutorial
 
 ---
 
