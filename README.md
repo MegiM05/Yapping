@@ -48,4 +48,14 @@ Skrip ini:
 
 ---
 
-Silakan fork, modifikasi, atau kembangkan sesuai kebutuhanmu. Jika bisa, bagikan kembali untuk komunitas. 😊
+## 📥 Kontribusi & Pengembang
+
+Script ini dibuat dan dikembangkan oleh:
+
+**👤 Gpt Anomali**  
+📧 anomaligpt5@gmail.com  
+🔗 GitHub / Platform lain: _(opsional, tambahkan jika ada link)_
+
+Terima kasih telah menggunakan NologyBot. Semoga bermanfaat dan terus berkembang bersama komunitas!
+
+---
